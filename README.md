@@ -8,5 +8,7 @@ Basic project made for Dart study.
 
 ## 📱 Application
 
-https://github.com/Marbarret/calculator_flutter/assets/79819229/e5205db9-544c-45a2-a402-753efffd3e73
+
+https://github.com/Marbarret/calculator_flutter/assets/79819229/c39caea7-15ad-44a7-9853-e39f78bb07f5
+
 
